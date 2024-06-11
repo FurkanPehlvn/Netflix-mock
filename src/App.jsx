@@ -1,8 +1,8 @@
 import { Link, Route, Switch } from "react-router-dom";
 import "./App.css";
-import Login from "./pages/Login";
+import Login from "./pages/Login.jsx";
 import Home from "./pages/Home.jsx";
-import Welcome from "./pages/Welcome";
+import Welcome from "./pages/Welcome.jsx";
 import Header from "./components/Header.jsx";
 import { useState } from "react";
 
